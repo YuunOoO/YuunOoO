@@ -1,7 +1,5 @@
 - 👋 Hello, I’m @YuunOoO
-- 👀 I’m interested in anime, street workout
-- 🌱 Dart / Flutter / C ++   (C# + backend in future) 
-- 📫 How to reach me: Discord  YuunOoO#7660
+- 🌱 Dart / Flutter / C ++ / PHP 
 
 
 <!---
